@@ -1,6 +1,6 @@
-#recruitment systemg
+recruitment system
 
-division of work:
+Division of work:
 
 Peng Ziyu 14048424 (JobApplication, JobPlatform, main)
 
